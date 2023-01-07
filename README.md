@@ -1,3 +1,3 @@
 # RADAR-DSP
 LMCW automotive radar 
-Did'nt get the birds eye view to work, but the other plots are working as expected.
+Able to detect movings targets with an estimate of radial distances (ranges), relative radial velocities and angles (Directions Of Arrival, DOA).
